@@ -18,5 +18,5 @@ A simple Python script that sends desktop notifications to remind you to drink w
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/water-reminder.git
+git clone https://github.com/EduardoAntonio77/Water-Reminder
 cd water-reminder
